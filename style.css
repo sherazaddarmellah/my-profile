@@ -68,3 +68,15 @@ a:hover {
   border-radius: 45%;
 }
 
+.btn-red { 
+  background color: red;
+  color: black;
+  padding: 15px 20px;
+  border-radius: 4px;
+}
+
+.btn-red:hover { 
+  background color: black;
+  color: pink;
+}
+
