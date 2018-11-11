@@ -65,9 +65,8 @@ a:hover {
 }
 
 .img-circle { 
-  border-radius: 45%;
+  border-radius: 50%;
 }
-
 .btn-red { 
   background color: red;
   color: black;
